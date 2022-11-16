@@ -1,4 +1,4 @@
-# My Eight'th Project
+# Web Design Landing Page
 
 > i have learnt basics of HTML and CSS in this project.
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./8.PNG)
+![web design landing page](https://user-images.githubusercontent.com/67215417/202184670-249858de-08bd-41d5-ac5e-5abf11cb64dd.png)
